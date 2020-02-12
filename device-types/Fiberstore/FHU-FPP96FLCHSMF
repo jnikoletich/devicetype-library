@@ -1,0 +1,346 @@
+u_height: 1
+rear-ports:
+- name: Port 1/2
+  type: lc
+  positions: 1
+- name: Port 11/12
+  type: lc
+  positions: 1
+- name: Port 13/14
+  type: lc
+  positions: 1
+- name: Port 15/16
+  type: lc
+  positions: 1
+- name: Port 17/18
+  type: lc
+  positions: 1
+- name: Port 19/20
+  type: lc
+  positions: 1
+- name: Port 21/22
+  type: lc
+  positions: 1
+- name: Port 23/24
+  type: lc
+  positions: 1
+- name: Port 25/26
+  type: lc
+  positions: 1
+- name: Port 27/28
+  type: lc
+  positions: 1
+- name: Port 29/30
+  type: lc
+  positions: 1
+- name: Port 3/4
+  type: lc
+  positions: 1
+- name: Port 31/32
+  type: lc
+  positions: 1
+- name: Port 33/34
+  type: lc
+  positions: 1
+- name: Port 35/36
+  type: lc
+  positions: 1
+- name: Port 37/38
+  type: lc
+  positions: 1
+- name: Port 39/40
+  type: lc
+  positions: 1
+- name: Port 41/42
+  type: lc
+  positions: 1
+- name: Port 43/44
+  type: lc
+  positions: 1
+- name: Port 45/46
+  type: lc
+  positions: 1
+- name: Port 47/48
+  type: lc
+  positions: 1
+- name: Port 49/50
+  type: lc
+  positions: 1
+- name: Port 5/6
+  type: lc
+  positions: 1
+- name: Port 51/52
+  type: lc
+  positions: 1
+- name: Port 53/54
+  type: lc
+  positions: 1
+- name: Port 55/56
+  type: lc
+  positions: 1
+- name: Port 57/58
+  type: lc
+  positions: 1
+- name: Port 59/60
+  type: lc
+  positions: 1
+- name: Port 61/62
+  type: lc
+  positions: 1
+- name: Port 63/64
+  type: lc
+  positions: 1
+- name: Port 65/66
+  type: lc
+  positions: 1
+- name: Port 67/68
+  type: lc
+  positions: 1
+- name: Port 69/70
+  type: lc
+  positions: 1
+- name: Port 7/8
+  type: lc
+  positions: 1
+- name: Port 71/72
+  type: lc
+  positions: 1
+- name: Port 73/74
+  type: lc
+  positions: 1
+- name: Port 75/76
+  type: lc
+  positions: 1
+- name: Port 77/78
+  type: lc
+  positions: 1
+- name: Port 79/80
+  type: lc
+  positions: 1
+- name: Port 81/82
+  type: lc
+  positions: 1
+- name: Port 83/84
+  type: lc
+  positions: 1
+- name: Port 85/86
+  type: lc
+  positions: 1
+- name: Port 87/88
+  type: lc
+  positions: 1
+- name: Port 89/90
+  type: lc
+  positions: 1
+- name: Port 9/10
+  type: lc
+  positions: 1
+- name: Port 91/92
+  type: lc
+  positions: 1
+- name: Port 93/94
+  type: lc
+  positions: 1
+- name: Port 95/96
+  type: lc
+  positions: 1
+subdevice_role: ''
+part_number: FHU-FPP96FLCHSMF
+slug: fhu-1u-19-fiber-patch-panel-96-fibers
+manufacturer: Fiber Store
+front-ports:
+- rear_port: Port 1/2
+  name: Port 1/2
+  type: lc
+  rear_port_position: 1
+- rear_port: Port 11/12
+  name: Port 11/12
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 13/14
+  name: Port 13/14
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 15/16
+  name: Port 15/16
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 17/18
+  name: Port 17/18
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 19/20
+  name: Port 19/20
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 21/22
+  name: Port 21/22
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 23/24
+  name: Port 23/24
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 25/26
+  name: Port 25/26
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 27/28
+  name: Port 27/28
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 29/30
+  name: Port 29/30
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 3/4
+  name: Port 3/4
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 31/32
+  name: Port 31/32
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 33/34
+  name: Port 33/34
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 35/36
+  name: Port 35/36
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 37/38
+  name: Port 37/38
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 39/40
+  name: Port 39/40
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 41/42
+  name: Port 41/42
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 43/44
+  name: Port 43/44
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 45/46
+  name: Port 45/46
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 47/48
+  name: Port 47/48
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 49/50
+  name: Port 49/50
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 5/6
+  name: Port 5/6
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 51/52
+  name: Port 51/52
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 53/54
+  name: Port 53/54
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 55/56
+  name: Port 55/56
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 57/58
+  name: Port 57/58
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 59/60
+  name: Port 59/60
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 61/62
+  name: Port 61/62
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 63/64
+  name: Port 63/64
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 65/66
+  name: Port 65/66
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 67/68
+  name: Port 67/68
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 69/70
+  name: Port 69/70
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 7/8
+  name: Port 7/8
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 71/72
+  name: Port 71/72
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 73/74
+  name: Port 73/74
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 75/76
+  name: Port 75/76
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 77/78
+  name: Port 77/78
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 79/80
+  name: Port 79/80
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 81/82
+  name: Port 81/82
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 83/84
+  name: Port 83/84
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 85/86
+  name: Port 85/86
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 87/88
+  name: Port 87/88
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 89/90
+  name: Port 89/90
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 9/10
+  name: Port 9/10
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 91/92
+  name: Port 91/92
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 93/94
+  name: Port 93/94
+  type: lc
+  rear_port_positions: 1
+- rear_port: Port 95/96
+  name: Port 95/96
+  type: lc
+  rear_port_positions: 1
+model: FHU 1U 19" Fiber Patch Panel - 96 Fibers
+is_full_depth: false
+comments: ''
